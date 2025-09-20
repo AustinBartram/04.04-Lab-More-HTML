@@ -1,6 +1,14 @@
+
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  border: 10px outset #007bff;
+  padding: 20px;rgb:(28, 99, 174)rgb(90, 138, 189)rgb(48, 96, 147)rgb(56, 112, 171);
+  background-color: #f0f8ff;
+  font-family: sans-serif;
+}
+
+
+img {
+  border: 2.5px dotted black;
 }
 
 table {
